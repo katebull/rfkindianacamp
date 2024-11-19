@@ -9,6 +9,7 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
+recipient,Recipient,,
 type,Type,
 format,Format,
 rights,Rights,
