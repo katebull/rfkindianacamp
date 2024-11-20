@@ -3,7 +3,7 @@ title: More Resources
 layout: about
 permalink: /more-resources.html
 ---
-##Further Resources to on Robert F. Kennedy and his 1968 Campaign##  
+## Further Resources to on Robert F. Kennedy and his 1968 Campaign ##  
 [Remembering Robert F. Kennedy- Selected Documents](https://www.sos.ca.gov/archives/rfkanniversary/remembering-rfk-selected-documents)  
 -Sirhan Sirhan's notebook pages calling for RFK's death are included in this resource, as well as the Los Angeles Police Department's Tragjectory Study. While the content is not graphic, it does contain inforamation related to the June 4th assassination.  
 [Robert F. Kennedy Fast Facts, John F. Kennedy Presidential Library and Museum](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/fast-facts-robert-f-kennedy)  
