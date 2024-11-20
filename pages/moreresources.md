@@ -1,6 +1,6 @@
 ---
 title: More Resources
 layout: about
-permalink: /moreresources.html
+permalink: /more-resources.html
 ---
 Additional Resources to on Robert F. Kennedy's 1968 Campaign
