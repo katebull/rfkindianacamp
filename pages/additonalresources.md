@@ -1,5 +1,5 @@
 ---
-title: Additonal Resources
+title: Additional Resources
 layout: about
-permalink: /additonalresources.html
+permalink: /additionalresources.html
 ---
