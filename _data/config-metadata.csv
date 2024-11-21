@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
-title,Title,,
-creator,Creator,,
-date,Date Created,,
+title,Title,true,
+creator,Creator, true,
+date,Date Created, true,
 description,Description,,
 subject,Subjects,true,
 location,Location,,
@@ -11,6 +11,6 @@ source,Source,,
 identifier,Source Identifier,,
 recipient,Recipient,,
 type,Type,,
-format,Format,true,
+medium, Medium,true,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
