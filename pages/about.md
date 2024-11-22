@@ -13,7 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection  
-
+In March 1968, Robert F. Kennedy announced his presidential campaign, a late announcement in an already late campaign. During the same time, Sally A. Lied was working on her doctorate while working as a head counselor in the Foster Quadrangle. She soon became part of the Indiana staff for Kennedy’s campaign, working as a student coordinator at Indiana University. During that time, she kept the artifacts of that campaign, including pictures and artwork made by an unknown student, and donated them to Indiana University with other artifacts collected during her time on campus. What is presented her is only a fraction of the materials held in this specific collection.  
+Highlighting this collection in the Indiana University Archives is a deliberate action to draw parallels between our past and present, especially with this being created in the election year of 2024. There are connections of late candidates entering the race when the incumbent no longer sought a second term, the Israel-Palestine conflict affecting the race, and  an assassination and an assassination attempt, to name a few. I also wish to highlight this collection to show what campus political activism was like in 1968, and the stark contrast it holds to the events of Spring 2024 in Dunn Meadow. 
 
 ## About the Staff  
 This CollectionBuilder was assembled by Kathryn Bullock. Bullock is currently a MLS student specializing in archives and records management at Indiana University. She is a former elementary teacher with experience in curriculum development for upper elementary. Her interest in history and archives inspired her to pursue the presidential campaign of Robert F. Kennedy. When she is not working on schoolwork or her job at the library, she enjoys reading, knitting, and baking.
