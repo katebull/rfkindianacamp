@@ -28,4 +28,3 @@ I would like to first thank Katie Morrison and the University Archives at Indian
 The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
