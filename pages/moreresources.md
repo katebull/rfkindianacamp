@@ -3,7 +3,6 @@ title: More Resources
 layout: about
 permalink: /more-resources.html
 ---
-{% include feature/image.html objectid="insal021" %}
 ## Further Resources on Robert F. Kennedy and his 1968 Campaign ##  
 ["The Last Campaign: Robert F. Kennedy and the 82 Days That Inspired America" by Thurston Clarke](https://www.amazon.com/Last-Campaign-Kennedy-Inspired-America/dp/0805077928)
 
@@ -17,3 +16,5 @@ permalink: /more-resources.html
 [Robert F. Kennedy Speeches, John F. Kennedy Presidential Library and Museum](https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-speeches)  
 
 [Sally A. Lied papers, Archives Online at Indiana University](https://archives.iu.edu/catalog/InU-Ar-VAD7308)  
+
+{% include feature/image.html objectid="insal021" %}
