@@ -12,11 +12,14 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Collection  
+
 
 ## About the Staff
+This CollectionBuilder was assembled by Kathryn Bullock. Bullock is currently a MLS student specializing in archives and records management at Indiana University. She is a former elementary teacher with experience in curriculum development for upper elementary. Her interest in history and archives inspired her to pursue the presidential campaign of Robert F. Kennedy. When she is not working on schoolwork or her job at the library, she enjoys reading, knitting, and baking.
 
 ## Acknowledgments
+
 
 ## Technical & Metadata Standards
 
