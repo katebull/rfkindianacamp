@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="insal020" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection  
 In March 1968, Robert F. Kennedy announced his presidential campaign, a late announcement in an already late campaign. During the same time, Sally A. Lied was working on her doctorate while working as a head counselor in the Foster Quadrangle. She soon became part of the Indiana staff for Kennedy’s campaign, working as a student coordinator at Indiana University. During that time, she kept the artifacts of that campaign, including pictures and artwork made by an unknown student, and donated them to Indiana University with other artifacts collected during her time on campus. What is presented her is only a fraction of the materials held in this specific collection.  
